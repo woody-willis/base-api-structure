@@ -1,8 +1,6 @@
-
 # Express & MySQL API Base
 
-Simple and robust Express API structure with MySQL connection and migrations for my projects.
-
+Simple and robust Express API structure with MySQL connection, Knex SQL query builder and Jest testing for my projects.
 
 ## Installation
 
